@@ -18,7 +18,7 @@
 
 
 .card:hover {
-    background-color: #3478da;
+    background-color: red;
     color: white;
     cursor: pointer;
 }
