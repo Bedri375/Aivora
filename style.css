@@ -33,3 +33,9 @@
     font-style: normal;
     transform: rotate(-3deg);
 }
+
+#scrollToTop {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+}
