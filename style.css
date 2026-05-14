@@ -1,0 +1,35 @@
+.btn-main {
+    background-color: #2577d8;
+    color: white;
+}
+
+.btn-main:hover {
+    background-color: #105bb6;
+    color: white;
+}
+
+.bg-main {
+    background-color: #2577d8;
+}
+
+.text-main {
+    color: #3478da;
+}
+
+
+.card:hover {
+    background-color: #3478da;
+    color: white;
+    cursor: pointer;
+}
+
+.card:hover i {
+    color: white;
+}
+
+.fancy-text {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    transform: rotate(-3deg);
+}
